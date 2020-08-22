@@ -1,0 +1,2 @@
+aperfeiçoamento na correção de bugs, otimização do sistema, 
+Segurança transacional e integridade do sistema. 
